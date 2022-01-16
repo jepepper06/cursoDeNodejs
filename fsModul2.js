@@ -2,6 +2,7 @@
 const {readFile, writeFile} = require('fs');
 
 //lee el archivo en func(x,y,z)
+
 console.log('Empezamos la tarea');
 readFile('./carpeta/subcarpeta/first.txt','utf-8'
 
