@@ -1,0 +1,3 @@
+ class perro extends Animal{
+     
+ }
